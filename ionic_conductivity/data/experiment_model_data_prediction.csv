@@ -1,0 +1,1329 @@
+This file contains all the data taken from NIST database used for model development,,,,,,,
+,,,,,,,
+Authors: Pratik Dhakal and Jindal K. Shah,,,,,,,
+Corresponding author's email: jindal.shah@okstate.edu,,,,,,,
+,,,,,,,
+Cation_Name,Cation_smiles,Anion_Name,Anion_smiles,Temperature/K,Ionic_conductivity[Liquid]/S/m,SVR_S/m,FFANN_S/m
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,468,19.3,1.91E+01,1.97E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,458,18,1.82E+01,1.76E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,448,16.8,1.66E+01,1.57E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,438,15.5,1.48E+01,1.40E+01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,468,14.5,1.43E+01,1.55E+01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,458,13.8,1.40E+01,1.43E+01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,448,13.1,1.32E+01,1.28E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,433,12.7,1.39E+01,1.32E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],472,12.5,1.23E+01,1.25E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,428,12.3,1.30E+01,1.25E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],468,12.2,1.21E+01,1.21E+01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,438,12.1,1.23E+01,1.15E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,423,11.8,1.22E+01,1.18E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],463,11.7,1.18E+01,1.16E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,418,11.3,1.15E+01,1.11E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],458,11.2,1.13E+01,1.10E+01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,428,11.1,1.12E+01,1.04E+01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,468,10.9,1.09E+01,1.10E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,413,10.8,1.08E+01,1.05E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],453,10.7,1.08E+01,1.04E+01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,408,10.3,1.02E+01,9.91E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,468,10.3,9.90E+00,9.95E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],448,10.2,1.03E+01,9.86E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,418,10.1,1.02E+01,9.30E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,458,10,1.02E+01,9.80E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,403,9.8,9.68E+00,9.36E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],443,9.79,9.71E+00,9.34E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,458,9.62,9.48E+00,9.34E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,398,9.3,9.17E+00,8.84E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,448,9.15,9.17E+00,8.72E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,408,9.15,9.10E+00,8.36E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,448,8.89,8.92E+00,8.68E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,393,8.8,8.69E+00,8.35E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,353,8.51,8.41E+00,8.01E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],431,8.41,8.40E+00,8.16E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,388,8.3,8.24E+00,7.88E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,438,8.29,8.18E+00,7.75E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,438,8.2,8.28E+00,7.89E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,398,8.19,8.08E+00,7.51E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],428,8.18,8.08E+00,7.87E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,468,8.11,7.64E+00,7.98E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,383,7.8,7.79E+00,7.44E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],423,7.71,7.58E+00,7.41E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],433,7.71,7.82E+00,8.23E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,468,7.69,7.77E+00,7.58E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,428,7.53,7.60E+00,7.17E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,458,7.53,7.45E+00,7.21E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,468,7.5,7.40E+00,8.14E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,428,7.45,7.35E+00,6.89E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,378,7.4,7.35E+00,7.03E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],428,7.38,7.35E+00,7.66E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,343,7.34,7.41E+00,7.20E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,388,7.26,7.13E+00,6.74E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],418,7.19,7.09E+00,6.98E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],423,7.03,6.95E+00,7.13E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,458,7,6.89E+00,6.79E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,448,6.96,7.04E+00,6.52E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],418,6.92,7.03E+00,6.83E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],433,6.9,6.81E+00,6.98E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,373,6.9,6.91E+00,6.64E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,458,6.88,6.90E+00,6.72E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,423,6.87,6.96E+00,7.48E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,418,6.87,6.92E+00,6.62E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,468,6.69,6.60E+00,6.95E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,418,6.66,6.67E+00,7.03E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],418,6.66,6.58E+00,6.64E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,418,6.64,6.65E+00,6.13E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],413,6.63,6.62E+00,6.48E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],428,6.6,6.55E+00,6.55E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,368,6.5,6.47E+00,6.27E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,413,6.41,6.36E+00,6.60E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,438,6.4,6.50E+00,5.91E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,378,6.34,6.25E+00,6.03E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,448,6.31,6.23E+00,6.09E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],423,6.3,6.30E+00,6.15E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,448,6.28,6.30E+00,5.68E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],413,6.26,6.22E+00,6.18E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,333,6.24,6.31E+00,6.09E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,408,6.23,6.23E+00,5.89E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],408,6.13,6.10E+00,5.83E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,408,6.12,6.03E+00,6.20E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],408,6.08,6.16E+00,5.98E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,458,6.07,6.14E+00,6.07E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],418,6,6.03E+00,5.78E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,363,6,6.03E+00,5.91E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,408,5.88,6.00E+00,5.45E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],408,5.85,5.85E+00,5.74E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,428,5.85,5.90E+00,5.36E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,403,5.75,5.68E+00,5.81E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],413,5.7,5.76E+00,5.43E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,438,5.69,5.68E+00,5.25E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,438,5.65,5.66E+00,5.42E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,398,5.6,5.57E+00,5.23E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],403,5.59,5.71E+00,5.52E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,358,5.5,5.59E+00,5.56E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,448,5.46,5.51E+00,5.30E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],403,5.42,5.47E+00,5.30E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,398,5.41,5.34E+00,5.45E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,368,5.41,5.44E+00,5.41E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],408,5.4,5.47E+00,5.09E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,418,5.31,5.30E+00,4.86E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],398,5.31,5.23E+00,4.98E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,468,5.24,5.20E+00,5.50E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,353,5.2,5.16E+00,5.25E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,323,5.19,5.21E+00,4.96E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],398,5.18,5.27E+00,5.11E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,398,5.13,5.30E+00,4.77E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,428,5.12,5.08E+00,4.86E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],403,5.1,5.17E+00,4.78E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetracyanoborate,C(#N)[B-](C#N)(C#N)C#N,353,5.1,5.03E+00,4.76E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,393,5.06,4.99E+00,5.12E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],398,5.01,5.07E+00,4.90E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,428,5.01,5.08E+00,4.81E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,388,4.99,4.94E+00,4.64E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,438,4.88,4.86E+00,4.63E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,458,4.82,4.91E+00,4.79E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,408,4.79,4.73E+00,4.40E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],393,4.77,4.84E+00,4.74E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],398,4.77,4.85E+00,4.48E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,348,4.77,4.74E+00,4.97E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,388,4.72,4.65E+00,4.79E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,468,4.72,4.68E+00,4.96E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,358,4.69,4.67E+00,4.74E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],393,4.58,4.65E+00,4.52E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,418,4.56,4.51E+00,4.41E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tricyanomethane,C(#N)[C-](C#N)C#N,379,4.56,4.49E+00,4.38E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],388,4.53,4.48E+00,4.24E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],393,4.47,4.53E+00,4.18E+00
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,468,4.44,4.37E+00,4.38E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,388,4.41,4.51E+00,4.16E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,448,4.41,4.49E+00,4.16E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetracyanoborate,C(#N)[B-](C#N)(C#N)C#N,343,4.41,4.39E+00,4.29E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,378,4.4,4.33E+00,4.04E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,383,4.39,4.32E+00,4.47E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,418,4.39,4.47E+00,4.26E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,323,4.38,4.32E+00,4.55E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],388,4.37,4.42E+00,4.36E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,343,4.35,4.32E+00,4.69E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,458,4.34,4.27E+00,4.05E+00
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,cyanocyanamide,[N-](C#N)C#N,353,4.34,4.29E+00,4.77E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,428,4.31,4.26E+00,4.04E+00
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,373,4.3,4.25E+00,3.99E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,398,4.28,4.20E+00,3.98E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,313,4.23,4.17E+00,4.03E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],388,4.17,4.21E+00,4.18E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],388,4.15,4.20E+00,3.91E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,373,4.1,4.04E+00,3.71E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],384,4.05,4.08E+00,4.05E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,378,4.04,4.00E+00,4.17E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,468,4.03,4.00E+00,4.42E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,408,4.03,3.98E+00,3.89E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,438,4.01,4.04E+00,3.77E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],438,4,4.07E+00,4.23E+00
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,458,3.99,4.03E+00,3.82E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],383,3.97,4.00E+00,3.98E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tricyanomethane,C(#N)[C-](C#N)C#N,368,3.96,4.00E+00,3.90E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,338,3.95,3.93E+00,4.19E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,448,3.94,3.87E+00,3.50E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,348,3.93,3.95E+00,3.86E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,318,3.92,3.92E+00,4.29E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],453,3.91,3.78E+00,4.36E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],383,3.86,3.88E+00,3.66E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,368,3.83,3.76E+00,3.52E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,408,3.81,3.84E+00,3.74E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],378,3.8,3.87E+00,3.61E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],433,3.79,3.81E+00,3.85E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,388,3.78,3.72E+00,3.60E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],383,3.77,3.78E+00,3.83E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,418,3.77,3.73E+00,3.54E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],443,3.74,3.70E+00,3.93E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,378,3.73,3.67E+00,3.62E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,373,3.7,3.69E+00,3.88E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,458,3.69,3.76E+00,3.85E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetracyanoborate,C(#N)[B-](C#N)(C#N)C#N,333,3.69,3.72E+00,3.82E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,428,3.62,3.60E+00,3.51E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tricyanomethane,C(#N)[C-](C#N)C#N,360,3.61,3.65E+00,3.58E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],428,3.57,3.56E+00,3.52E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],378,3.57,3.56E+00,3.42E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,333,3.56,3.55E+00,3.73E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,438,3.56,3.51E+00,3.22E+00
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,448,3.56,3.61E+00,3.34E+00
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,cyanocyanamide,[N-](C#N)C#N,343,3.53,3.18E+00,3.79E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,398,3.52,3.48E+00,3.43E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],377,3.49,3.53E+00,3.57E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,313,3.47,3.51E+00,3.79E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],433,3.43,3.49E+00,3.53E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,373,3.4,3.26E+00,3.38E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],378,3.39,3.37E+00,3.46E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],423,3.36,3.31E+00,3.23E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,448,3.36,3.43E+00,3.35E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,368,3.34,3.39E+00,3.62E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,303,3.34,3.24E+00,3.28E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,378,3.31,3.28E+00,3.16E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],373,3.29,3.25E+00,3.20E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,353,3.29,3.24E+00,3.40E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,358,3.28,3.23E+00,3.06E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,408,3.26,3.26E+00,3.10E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,398,3.25,3.24E+00,3.19E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,418,3.24,3.19E+00,3.19E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],373,3.22,3.23E+00,3.31E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,328,3.22,3.20E+00,3.33E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,338,3.22,3.26E+00,3.15E+00
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,353,3.2,3.25E+00,3.22E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,428,3.19,3.17E+00,2.95E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tricyanomethane,C(#N)[C-](C#N)C#N,348,3.17,3.14E+00,3.15E+00
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,438,3.15,3.18E+00,2.94E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],423,3.14,3.19E+00,3.18E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],418,3.13,3.08E+00,2.96E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],368,3.11,3.33E+00,3.10E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,368,3.1,2.87E+00,2.97E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,363,3.07,3.10E+00,3.28E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,353,3.05,3.09E+00,3.01E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,308,3.05,3.09E+00,3.35E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,438,3.04,3.06E+00,2.91E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,388,3.04,3.01E+00,3.02E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetracyanoborate,C(#N)[B-](C#N)(C#N)C#N,323,3.01,3.04E+00,3.19E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],368,3,2.95E+00,2.89E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],373,3,2.97E+00,3.13E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,353,2.94,2.98E+00,2.86E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],413,2.9,2.86E+00,2.72E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,358,2.9,2.81E+00,2.95E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],368,2.89,2.87E+00,2.98E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,408,2.88,2.83E+00,2.87E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tricyanomethane,C(#N)[C-](C#N)C#N,342,2.88,2.89E+00,2.96E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,368,2.86,2.85E+00,2.71E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,323,2.85,2.87E+00,2.97E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],413,2.84,2.86E+00,2.87E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,418,2.83,2.84E+00,2.65E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],358,2.83,2.81E+00,2.74E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,372,2.83,2.34E+00,2.46E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,298,2.83,2.83E+00,2.96E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,398,2.78,2.81E+00,2.70E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,348,2.77,2.74E+00,2.62E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,343,2.76,2.76E+00,2.70E+00
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,428,2.75,2.76E+00,2.59E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,388,2.74,2.70E+00,2.71E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,428,2.72,2.71E+00,2.53E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],408,2.69,2.65E+00,2.49E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,343,2.69,2.59E+00,2.53E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],363,2.68,2.67E+00,2.61E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],367,2.67,2.53E+00,2.77E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,303,2.67,2.67E+00,2.95E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,353,2.64,2.53E+00,2.66E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,378,2.6,2.56E+00,2.56E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,373,2.6,2.57E+00,2.57E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],363,2.57,2.53E+00,2.54E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,328,2.57,2.61E+00,2.59E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tricyanomethane,C(#N)[C-](C#N)C#N,333,2.57,2.53E+00,2.62E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,318,2.55,2.56E+00,2.62E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],403,2.55,2.52E+00,2.55E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,398,2.53,2.49E+00,2.54E+00
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],368,2.53,2.51E+00,2.53E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,358,2.52,2.19E+00,2.21E+00
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,cyanocyanamide,[N-](C#N)C#N,333,2.51,2.47E+00,3.01E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,368,2.5,2.40E+00,2.42E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,408,2.49,2.52E+00,2.38E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,343,2.48,2.50E+00,2.36E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],403,2.47,2.44E+00,2.28E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,361,2.47,2.98E+00,3.15E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,358,2.43,2.45E+00,2.29E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,418,2.42,2.38E+00,2.28E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],358,2.41,2.41E+00,2.34E+00
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,418,2.38,2.38E+00,2.28E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetracyanoborate,C(#N)[B-](C#N)(C#N)C#N,313,2.38,2.40E+00,2.65E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],343,2.34,2.31E+00,2.31E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,348,2.33,2.26E+00,2.39E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,388,2.33,2.38E+00,2.33E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,298,2.32,2.28E+00,2.60E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,357,2.31,2.75E+00,2.89E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,373,2.3,2.34E+00,2.48E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,373,2.3,2.35E+00,2.28E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,338,2.29,2.27E+00,2.13E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,313,2.28,2.28E+00,2.31E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],348,2.28,2.28E+00,2.40E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],358,2.27,2.22E+00,2.17E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],398,2.26,2.23E+00,2.09E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,378,2.26,2.23E+00,2.31E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,333,2.25,2.28E+00,2.15E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],393,2.24,2.20E+00,2.24E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tricyanomethane,C(#N)[C-](C#N)C#N,326,2.2,2.26E+00,2.23E+00
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,333,2.2,2.22E+00,2.07E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,388,2.19,2.18E+00,2.18E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,288,2.19,2.11E+00,2.43E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],353,2.18,2.17E+00,2.11E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,398,2.16,2.19E+00,2.05E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,368,2.16,2.14E+00,2.03E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],360,2.15,2.08E+00,2.26E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,408,2.13,2.09E+00,2.05E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],356,2.12,2.10E+00,2.04E+00
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],358,2.12,2.10E+00,2.13E+00
+1-ethyl-3-methyl-1H-imidazolium,C(C)[NH+]1CN(C=C1)C,tricyanomethanide,C(#N)[C-](C#N)C#N,333,2.12,2.15E+00,2.27E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,333,2.1,2.14E+00,2.13E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,343,2.09,2.01E+00,2.15E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,351,2.09,2.42E+00,2.55E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,358,2.06,2.09E+00,2.15E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,333,2.04,2.05E+00,1.91E+00
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,408,2.03,2.02E+00,1.98E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,348,2.03,2.06E+00,1.91E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,308,2.02,2.01E+00,2.04E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],393,2.01,2.03E+00,1.92E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,373,2,2.03E+00,2.13E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,318,1.99,2.01E+00,2.13E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],353,1.99,2.02E+00,1.92E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],348,1.95,1.95E+00,1.90E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,352,1.94,1.90E+00,1.81E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],383,1.93,1.91E+00,1.97E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,348,1.93,1.81E+00,1.91E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],353,1.92,1.92E+00,1.85E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],354,1.92,1.98E+00,1.91E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,378,1.92,1.96E+00,1.94E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,351,1.9,1.86E+00,1.78E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,378,1.88,1.88E+00,1.86E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],355,1.87,1.80E+00,1.91E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,350,1.86,1.83E+00,1.75E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,338,1.86,1.76E+00,1.94E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,388,1.86,1.87E+00,1.76E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,328,1.86,1.84E+00,1.71E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,333,1.86,1.83E+00,1.96E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,398,1.85,1.82E+00,1.76E+00
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,cyanocyanamide,[N-](C#N)C#N,323,1.85,1.83E+00,2.06E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tricyanomethane,C(#N)[C-](C#N)C#N,316,1.84,1.87E+00,1.79E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],333,1.84,1.82E+00,1.73E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,368,1.83,1.85E+00,1.94E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,349,1.82,1.79E+00,1.71E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],388,1.82,1.84E+00,1.76E+00
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,353,1.82,1.81E+00,1.79E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,323,1.82,1.82E+00,1.73E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,344,1.81,2.06E+00,2.20E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetracyanoborate,C(#N)[B-](C#N)(C#N)C#N,303,1.81,1.80E+00,1.92E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,303,1.79,1.76E+00,1.80E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,358,1.78,1.75E+00,1.61E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],338,1.76,1.73E+00,1.90E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],343,1.75,1.74E+00,1.70E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,343,1.75,1.67E+00,1.80E+00
+3-(3-cyanopropyl)-1-methylimidazolium,C(#N)CCCN1C=[N+](C=C1)C,"1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,372,1.75,1.73E+00,1.63E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,347,1.74,1.72E+00,1.65E+00
+1-ethyl-3-methyl-1H-imidazolium,C(C)[NH+]1CN(C=C1)C,tricyanomethanide,C(#N)[C-](C#N)C#N,323,1.73,1.71E+00,1.88E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,346,1.71,1.69E+00,1.61E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,333,1.71,1.53E+00,1.74E+00
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],348,1.71,1.74E+00,1.68E+00
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,398,1.7,1.70E+00,1.70E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,353,1.7,1.93E+00,1.85E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,353,1.7,1.95E+00,2.02E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,373,1.7,1.73E+00,1.72E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,345,1.67,1.65E+00,1.58E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],353,1.67,1.64E+00,1.30E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,348,1.67,1.65E+00,1.65E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,338,1.66,1.68E+00,1.60E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,353,1.66,1.90E+00,1.91E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,348,1.65,1.76E+00,1.68E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],348,1.65,1.65E+00,1.58E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],383,1.64,1.65E+00,1.61E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,323,1.64,1.64E+00,1.53E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,328,1.64,1.66E+00,1.73E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,323,1.64,1.74E+00,1.79E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,344,1.63,1.61E+00,1.55E+00
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,348,1.63,1.62E+00,1.56E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tricyanomethane,C(#N)[C-](C#N)C#N,310,1.63,1.64E+00,1.57E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,299,1.62,1.58E+00,1.63E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,353,1.6,1.57E+00,1.43E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,388,1.59,1.57E+00,1.51E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,368,1.58,1.58E+00,1.59E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],373,1.58,1.63E+00,1.73E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,298,1.57,1.53E+00,1.58E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],350,1.57,1.54E+00,1.61E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,342,1.56,1.54E+00,1.48E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,378,1.56,1.57E+00,1.49E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,278,1.56,1.53E+00,1.68E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetracyanoborate,C(#N)[B-](C#N)(C#N)C#N,298,1.56,1.53E+00,1.61E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,338,1.56,1.53E+00,1.70E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,368,1.55,1.57E+00,1.61E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],343,1.55,1.53E+00,1.61E+00
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,368,1.55,1.53E+00,1.40E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],343,1.55,1.53E+00,1.49E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,296,1.54,1.45E+00,1.51E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],338,1.54,1.54E+00,1.49E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,335,1.53,1.62E+00,1.82E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,341,1.52,1.50E+00,1.45E+00
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],368,1.52,1.51E+00,1.30E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,340,1.48,1.47E+00,1.42E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,343,1.48,1.58E+00,1.52E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,308,1.48,1.48E+00,1.51E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,323,1.48,1.48E+00,1.53E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,318,1.48,1.56E+00,1.64E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,318,1.47,1.45E+00,1.37E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,300,1.46,1.62E+00,1.67E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],378,1.46,1.46E+00,1.48E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,iodide,[I-],363,1.46,1.44E+00,1.23E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,339,1.45,1.43E+00,1.39E+00
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,343,1.45,1.45E+00,1.36E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,313,1.45,1.41E+00,1.33E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,294,1.44,1.36E+00,1.43E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,358,1.44,1.52E+00,1.58E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],338,1.41,1.43E+00,1.41E+00
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,388,1.4,1.39E+00,1.42E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],363,1.4,1.36E+00,1.48E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,373,1.4,1.43E+00,1.37E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,313,1.4,1.39E+00,1.48E+00
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,313,1.4,1.37E+00,1.37E+00
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],338,1.39,1.40E+00,1.32E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],323,1.39,1.41E+00,1.29E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,337,1.38,1.36E+00,1.33E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,333,1.38,1.39E+00,1.54E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],343,1.36,1.39E+00,1.35E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],333,1.35,1.36E+00,1.31E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,336,1.34,1.33E+00,1.31E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,378,1.34,1.33E+00,1.29E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,338,1.33,1.40E+00,1.36E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],346,1.33,1.35E+00,1.41E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,297,1.32,1.49E+00,1.55E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,328,1.32,1.33E+00,1.33E+00
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,363,1.32,1.32E+00,1.28E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],348,1.32,1.27E+00,1.11E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,318,1.32,1.30E+00,1.35E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,335,1.31,1.29E+00,1.28E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,293,1.31,1.32E+00,1.40E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetracyanoborate,C(#N)[B-](C#N)(C#N)C#N,293,1.31,1.29E+00,1.34E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],328,1.31,1.22E+00,1.29E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,358,1.3,1.31E+00,1.35E+00
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],363,1.3,1.30E+00,1.02E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],333,1.3,1.32E+00,1.33E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tricyanomethane,C(#N)[C-](C#N)C#N,300,1.3,1.28E+00,1.26E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,323,1.3,8.56E-01,8.89E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],373,1.29,1.29E+00,1.32E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,368,1.29,1.29E+00,1.26E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,343,1.29,1.24E+00,1.13E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,334,1.28,1.26E+00,1.25E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],341,1.28,1.29E+00,1.26E+00
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,338,1.28,1.28E+00,1.18E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,307,1.28,1.19E+00,1.28E+00
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,462,1.27,1.29E+00,1.36E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,313,1.27,1.27E+00,1.23E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,343,1.27,1.44E+00,1.46E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,348,1.26,1.40E+00,1.27E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,iodide,[I-],358,1.26,1.27E+00,1.06E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,328,1.25,1.32E+00,1.56E+00
+1-ethyl-3-methyl-1H-imidazolium,C(C)[NH+]1CN(C=C1)C,tricyanomethanide,C(#N)[C-](C#N)C#N,313,1.25,1.28E+00,1.47E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,295,1.24,1.40E+00,1.47E+00
+3-(3-cyanopropyl)-1-methylimidazolium,C(#N)CCCN1C=[N+](C=C1)C,"1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,343,1.23,9.79E-01,9.56E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,308,1.23,1.22E+00,1.32E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,289,1.22,1.16E+00,1.26E+00
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,457,1.22,1.22E+00,1.25E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],353,1.22,1.11E+00,1.14E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,328,1.22,1.24E+00,1.33E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,332,1.21,1.20E+00,1.20E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],339,1.21,1.20E+00,1.19E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,358,1.21,1.22E+00,1.24E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],345,1.2,1.49E+00,1.44E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,343,1.2,1.08E+00,1.14E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,353,1.2,1.37E+00,1.43E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,373,1.2,1.22E+00,1.19E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,353,1.2,1.18E+00,1.21E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,333,1.19,1.23E+00,1.23E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],328,1.19,1.21E+00,1.26E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],328,1.18,1.19E+00,1.14E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,286,1.17,1.05E+00,1.17E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,331,1.17,1.16E+00,1.17E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],338,1.17,1.16E+00,1.15E+00
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,453,1.17,1.16E+00,1.17E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],368,1.17,1.12E+00,1.15E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,305,1.17,1.13E+00,1.20E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],343,1.16,1.15E+00,1.07E+00
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,cyanocyanamide,[N-](C#N)C#N,313,1.16,1.17E+00,1.39E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],333,1.15,1.13E+00,1.22E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,330,1.14,1.13E+00,1.15E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,343,1.14,1.13E+00,1.40E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,305,1.14,1.12E+00,1.03E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],337,1.13,1.11E+00,1.11E+00
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,378,1.13,1.12E+00,1.18E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,308,1.12,1.10E+00,1.10E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],341,1.12,1.13E+00,1.19E+00
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,358,1.12,1.13E+00,1.16E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,313,1.12,1.13E+00,1.20E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,329,1.11,1.10E+00,1.13E+00
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,448,1.11,1.08E+00,1.07E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,323,1.11,1.13E+00,1.35E+00
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,368,1.11,1.11E+00,1.10E+00
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,333,1.11,1.13E+00,1.04E+00
+1-cyclopentyl-3-butylimidazolium,C1(CCCC1)[N+]1=CN(C=C1)CCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,353,1.11,1.10E+00,1.08E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,284,1.1,9.82E-01,1.12E+00
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],358,1.1,1.11E+00,8.71E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,303,1.1,1.07E+00,1.13E+00
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,303,1.1,1.03E+00,1.10E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,288,1.09,1.13E+00,1.23E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetracyanoborate,C(#N)[B-](C#N)(C#N)C#N,288,1.09,1.07E+00,1.12E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bromide,[Br-],336,1.08,1.07E+00,1.08E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,338,1.08,1.07E+00,1.26E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],323,1.08,1.09E+00,1.19E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,338,1.08,1.26E+00,1.29E+00
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],328,1.08,1.10E+00,1.03E+00
+3-(3-cyanopropyl)-1-methylimidazolium,C(#N)CCCN1C=[N+](C=C1)C,"1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,353,1.08,1.14E+00,1.15E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,291,1.07,1.24E+00,1.33E+00
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,353,1.07,1.08E+00,1.14E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,333,1.07,1.11E+00,1.14E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,303,1.06,1.05E+00,9.72E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],338,1.06,1.06E+00,1.02E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,328,1.05,1.07E+00,1.10E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,358,1.05,1.04E+00,1.06E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,298,1.05,1.04E+00,1.02E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,348,1.05,1.06E+00,1.08E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,323,1.05,1.09E+00,1.15E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,327,1.04,1.04E+00,1.08E+00
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,formate,C(=O)[O-],343,1.04,1.03E+00,1.22E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,333,1.03,1.02E+00,1.15E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tricyanomethane,C(#N)[C-](C#N)C#N,293,1.03,1.04E+00,1.02E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,318,1.02,1.01E+00,1.05E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],313,1.02,1.04E+00,9.36E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,326,1.01,1.01E+00,1.06E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],323,1.01,1.03E+00,9.89E-01
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,353,1.01,1.00E+00,9.76E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,440,1,9.60E-01,9.33E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],348,1,9.86E-01,9.98E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,301,1,1.01E+00,1.06E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,302,1,1.02E+00,9.42E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],323,0.984,9.99E-01,1.05E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,325,0.983,9.81E-01,1.03E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],318,0.977,9.85E-01,1.05E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],338,0.975,1.01E+00,1.08E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,318,0.973,9.58E-01,1.16E+00
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,328,0.968,9.65E-01,1.06E+00
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,328,0.967,9.80E-01,9.11E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],333,0.965,9.71E-01,9.50E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,343,0.963,9.52E-01,9.61E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,300,0.96,9.79E-01,1.02E+00
+1-butyl-3-pentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,353,0.96,9.51E-01,9.23E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,281,0.958,8.81E-01,1.03E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],363,0.954,9.72E-01,9.99E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,303,0.953,9.45E-01,1.00E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,324,0.949,9.52E-01,1.01E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,308,0.948,9.57E-01,1.06E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,353,0.94,9.25E-01,9.23E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,333,0.94,9.57E-01,8.20E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,353,0.939,9.48E-01,9.88E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],358,0.93,8.34E-01,8.66E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,338,0.93,9.46E-01,9.99E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,299,0.93,9.50E-01,9.91E-01
+1-ethyl-3-methyl-1H-imidazolium,C(C)[NH+]1CN(C=C1)C,tricyanomethanide,C(#N)[C-](C#N)C#N,303,0.93,9.20E-01,1.05E+00
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,348,0.926,9.17E-01,9.09E-01
+"1-ethyl-2,3-dimethylimidazolium",C(C)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],343,0.925,9.17E-01,1.04E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,318,0.92,9.40E-01,1.00E+00
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],353,0.918,9.30E-01,7.42E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,323,0.917,9.25E-01,9.81E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,348,0.917,1.22E+00,1.29E+00
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,298,0.913,8.99E-01,8.25E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,298,0.91,9.21E-01,9.60E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,323,0.908,9.11E-01,9.68E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,358,0.906,9.02E-01,9.33E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,283,0.9,9.48E-01,1.09E+00
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,298,0.9,8.87E-01,9.65E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,300,0.9,9.59E-01,8.82E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,313,0.9,6.53E-01,6.94E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,368,0.895,8.83E-01,9.76E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,338,0.893,8.83E-01,8.81E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,290,0.891,1.20E+00,1.30E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,322,0.891,8.97E-01,9.50E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetracyanoborate,C(#N)[B-](C#N)(C#N)C#N,283,0.884,8.81E-01,9.40E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],343,0.884,1.01E+00,9.49E-01
+1-butyl-3-isopentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCC(C)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,353,0.883,8.70E-01,8.69E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,formate,C(=O)[O-],338,0.88,8.83E-01,9.94E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],313,0.879,8.80E-01,9.31E-01
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,348,0.878,8.68E-01,8.87E-01
+1-cyclopentyl-3-butylimidazolium,C1(CCCC1)[N+]1=CN(C=C1)CCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,343,0.878,8.83E-01,8.68E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,435,0.872,8.86E-01,8.54E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],343,0.871,8.67E-01,8.73E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],328,0.868,8.80E-01,8.53E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],338,0.867,8.04E-01,8.09E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,321,0.866,8.71E-01,9.19E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],318,0.86,8.74E-01,8.56E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,433,0.847,8.58E-01,8.21E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,318,0.846,8.56E-01,8.86E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,320,0.842,8.45E-01,8.90E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,338,0.841,1.10E+00,9.72E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,279,0.835,8.17E-01,9.21E-01
+"2,3-dimethyl-1-propylimidazolium",CC1=[N+](C=CN1C)CCC,hydrogen sulfate,S(=O)(=O)(O)[O-],343,0.832,8.25E-01,9.21E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,348,0.831,8.20E-01,8.06E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,338,0.83,8.33E-01,8.62E-01
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,323,0.83,8.42E-01,8.00E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],350,0.827,1.04E+00,1.05E+00
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],343,0.825,8.15E-01,8.36E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,303,0.824,7.97E-01,8.80E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,333,0.823,8.17E-01,8.06E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],323,0.821,8.08E-01,8.23E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],318,0.821,8.26E-01,8.07E-01
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,formate,C(=O)[O-],298,0.821,8.13E-01,8.31E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,319,0.82,8.19E-01,8.61E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],318,0.819,8.02E-01,8.56E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,298,0.816,8.02E-01,8.22E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,313,0.814,8.09E-01,1.00E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],358,0.81,7.98E-01,8.29E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],334,0.802,8.57E-01,9.49E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,333,0.801,8.13E-01,8.69E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,353,0.8,8.05E-01,8.43E-01
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,343,0.794,7.83E-01,8.51E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,318,0.793,7.94E-01,8.33E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],323,0.788,7.90E-01,7.65E-01
+"1-ethyl-2,3-dimethylimidazolium",C(C)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],338,0.787,7.90E-01,8.54E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,313,0.785,7.97E-01,8.21E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],308,0.785,7.82E-01,8.22E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,313,0.782,7.91E-01,8.43E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,348,0.779,7.88E-01,8.23E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,328,0.779,9.73E-01,1.01E+00
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,317,0.773,7.69E-01,8.06E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,293,0.772,7.60E-01,6.99E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,293,0.77,7.82E-01,8.17E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,343,0.769,7.61E-01,7.78E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,323,0.763,7.14E-01,5.84E-01
+1-ethyl-3-methyl-1H-imidazolium,C(C)[NH+]1CN(C=C1)C,tricyanomethanide,C(#N)[C-](C#N)C#N,298,0.76,7.73E-01,8.93E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,308,0.757,7.45E-01,7.60E-01
+1-butyl-3-pentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,343,0.757,7.70E-01,7.49E-01
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,343,0.756,7.47E-01,7.89E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],348,0.756,7.68E-01,6.47E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,328,0.755,7.53E-01,7.38E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,316,0.752,7.46E-01,7.79E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],338,0.752,7.51E-01,7.60E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,293,0.75,7.59E-01,8.44E-01
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],338,0.744,7.44E-01,7.56E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],343,0.739,7.34E-01,7.72E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,formate,C(=O)[O-],333,0.738,7.40E-01,8.10E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],358,0.736,7.26E-01,9.06E-01
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,343,0.734,7.22E-01,8.05E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bromide,[Br-],373,0.734,7.26E-01,1.03E+00
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,338,0.733,7.31E-01,7.66E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],373,0.731,7.38E-01,6.84E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,278,0.73,7.86E-01,8.68E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,298,0.73,7.19E-01,3.08E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,315,0.729,7.22E-01,7.53E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,425,0.725,7.47E-01,7.05E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,308,0.725,7.37E-01,7.68E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,343,0.724,7.23E-01,7.04E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],303,0.723,7.31E-01,7.14E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,276,0.721,7.26E-01,7.69E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],313,0.72,7.31E-01,7.42E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,348,0.72,7.14E-01,7.53E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,333,0.72,7.31E-01,7.70E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,309,0.715,7.05E-01,8.90E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],348,0.715,6.00E-01,6.51E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,308,0.712,5.60E-01,6.08E-01
+"2,3-dimethyl-1-propylimidazolium",CC1=[N+](C=CN1C)CCC,hydrogen sulfate,S(=O)(=O)(O)[O-],338,0.711,7.12E-01,7.61E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],318,0.707,7.04E-01,6.87E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,314,0.706,6.99E-01,7.29E-01
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,318,0.704,7.13E-01,7.03E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,288,0.702,6.93E-01,6.90E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tetracyanoborate,C(#N)[B-](C#N)(C#N)C#N,278,0.702,7.15E-01,7.90E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],353,0.697,7.09E-01,7.51E-01
+1-butyl-3-isopentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCC(C)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,343,0.694,7.03E-01,7.07E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],303,0.693,6.91E-01,7.26E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,323,0.689,6.90E-01,6.75E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,358,0.688,6.79E-01,7.18E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,328,0.686,6.86E-01,7.56E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,338,0.683,6.73E-01,6.67E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,293,0.681,6.73E-01,6.66E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,338,0.676,6.83E-01,6.74E-01
+"2,3-dimethyl-1-pentylimidazolium",CC1=[N+](C=CN1C)CCCCC,hydrogen sulfate,S(=O)(=O)(O)[O-],343,0.675,6.70E-01,7.06E-01
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,333,0.671,6.77E-01,6.87E-01
+1-cyclopentyl-3-butylimidazolium,C1(CCCC1)[N+]1=CN(C=C1)CCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,333,0.668,6.80E-01,6.64E-01
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],333,0.665,6.70E-01,6.67E-01
+"1-ethyl-2,3-dimethylimidazolium",C(C)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],333,0.665,6.71E-01,7.04E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,312,0.664,6.55E-01,6.81E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,303,0.662,6.73E-01,7.19E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],368,0.661,6.66E-01,6.20E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,308,0.657,6.50E-01,7.07E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,313,0.65,6.77E-01,7.05E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,288,0.647,6.38E-01,5.93E-01
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,338,0.644,6.37E-01,6.61E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,thiocyanate,[S-]C#N,298,0.644,6.51E-01,6.95E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,288,0.644,6.53E-01,6.96E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,311,0.643,6.34E-01,6.59E-01
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,cyanocyanamide,[N-](C#N)C#N,303,0.64,5.92E-01,6.34E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,343,0.639,6.46E-01,5.82E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,338,0.638,6.33E-01,6.17E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,328,0.634,6.37E-01,6.66E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,iodide,[I-],333,0.633,6.41E-01,6.52E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],338,0.631,6.35E-01,6.39E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],328,0.628,6.41E-01,6.35E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],313,0.628,6.22E-01,6.10E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,343,0.627,6.29E-01,6.72E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],328,0.626,5.29E-01,5.90E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],333,0.623,6.50E-01,6.91E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,310,0.622,6.13E-01,6.37E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,419,0.622,6.70E-01,6.28E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,318,0.622,6.28E-01,6.24E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,328,0.619,8.30E-01,6.92E-01
+3-(3-cyanopropyl)-1-methylimidazolium,C(#N)CCCN1C=[N+](C=C1)C,"1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,323,0.617,6.12E-01,4.85E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],343,0.614,6.22E-01,5.18E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],298,0.613,6.07E-01,6.41E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,formate,C(=O)[O-],328,0.613,6.10E-01,6.59E-01
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,328,0.612,6.20E-01,6.17E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],308,0.61,6.00E-01,6.38E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,298,0.606,6.07E-01,6.71E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,309,0.602,5.92E-01,6.16E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],298,0.602,5.98E-01,6.30E-01
+"2,3-dimethyl-1-propylimidazolium",CC1=[N+](C=CN1C)CCC,hydrogen sulfate,S(=O)(=O)(O)[O-],333,0.6,6.05E-01,6.29E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],313,0.6,6.33E-01,6.97E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,303,0.6,4.71E-01,5.33E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],308,0.595,5.88E-01,6.19E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,333,0.593,6.02E-01,5.76E-01
+1-propyl-3-methylimidazolium,C(CC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,298,0.59,5.96E-01,7.94E-01
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,313,0.589,5.95E-01,6.08E-01
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],328,0.588,5.97E-01,5.89E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],363,0.584,5.93E-01,5.63E-01
+3-(3-cyanopropyl)-1-methylimidazolium,C(#N)CCCN1C=[N+](C=C1)C,"1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,333,0.584,8.15E-01,6.86E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,304,0.583,5.93E-01,7.68E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,353,0.581,5.89E-01,6.16E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,308,0.581,5.72E-01,5.96E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,323,0.58,5.67E-01,6.58E-01
+1-butyl-3-pentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,333,0.58,5.89E-01,6.07E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,333,0.576,5.70E-01,5.71E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,413,0.575,5.99E-01,5.60E-01
+"2,3-dimethyl-1-pentylimidazolium",CC1=[N+](C=CN1C)CCCCC,hydrogen sulfate,S(=O)(=O)(O)[O-],338,0.573,5.82E-01,5.81E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,307,0.562,5.53E-01,5.76E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,288,0.561,5.59E-01,5.40E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,313,0.557,5.65E-01,5.83E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,338,0.556,5.49E-01,6.00E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],308,0.555,5.46E-01,5.40E-01
+"1-ethyl-2,3-dimethylimidazolium",C(C)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],328,0.554,5.61E-01,5.80E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],313,0.553,5.46E-01,5.58E-01
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,323,0.553,5.60E-01,5.54E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,323,0.548,5.50E-01,5.61E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,293,0.547,5.41E-01,6.05E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,303,0.547,5.19E-01,5.88E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,306,0.543,5.34E-01,5.57E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,333,0.54,5.50E-01,5.41E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,298,0.539,5.29E-01,5.50E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],338,0.537,4.20E-01,4.94E-01
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,333,0.536,5.37E-01,5.54E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],293,0.536,5.31E-01,5.66E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],348,0.536,5.78E-01,6.09E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,283,0.534,5.31E-01,5.03E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],343,0.532,5.05E-01,5.12E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],333,0.531,5.38E-01,5.29E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycolate,C(CO)(=O)[O-],343,0.531,5.25E-01,5.68E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,283,0.53,5.35E-01,5.89E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,318,0.53,7.51E-01,7.86E-01
+1-butyl-3-isopentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCC(C)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,333,0.529,5.35E-01,5.62E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,305,0.524,5.15E-01,5.39E-01
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],323,0.523,5.26E-01,5.20E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,405,0.522,5.13E-01,4.80E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,338,0.518,5.22E-01,4.51E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],358,0.514,5.20E-01,5.08E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,328,0.514,5.22E-01,4.92E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],343,0.512,5.03E-01,5.67E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,304,0.506,4.97E-01,5.21E-01
+1-cyclopentyl-3-butylimidazolium,C1(CCCC1)[N+]1=CN(C=C1)CCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,323,0.504,5.02E-01,5.10E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,348,0.502,5.09E-01,5.26E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,formate,C(=O)[O-],323,0.498,4.95E-01,5.34E-01
+3-ethyl-1-methyl-1H-imidazolium,C(C)N1C[NH+](C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],338,0.498,4.95E-01,6.39E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,308,0.496,5.03E-01,5.44E-01
+"2,3-dimethyl-1-propylimidazolium",CC1=[N+](C=CN1C)CCC,hydrogen sulfate,S(=O)(=O)(O)[O-],328,0.496,5.04E-01,5.19E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,299,0.491,5.00E-01,6.00E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],338,0.49,4.94E-01,4.04E-01
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,318,0.489,4.97E-01,5.01E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,318,0.489,4.57E-01,5.57E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],311,0.488,5.01E-01,5.17E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],324,0.487,5.10E-01,4.86E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,hydrogen carbonate,C(O)([O-])=O,288,0.487,4.75E-01,4.99E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],303,0.485,4.81E-01,5.33E-01
+"2,3-dimethyl-1-pentylimidazolium",CC1=[N+](C=CN1C)CCCCC,hydrogen sulfate,S(=O)(=O)(O)[O-],333,0.485,4.93E-01,4.79E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],303,0.483,4.76E-01,4.79E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],308,0.483,4.94E-01,5.67E-01
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,308,0.481,4.88E-01,4.53E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,328,0.481,4.78E-01,4.75E-01
+"1-hexyl-2,3-dimethylimidazolium",C(CCCCC)[N+]1=C(N(C=C1)C)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,333,0.48,4.73E-01,3.91E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,328,0.475,4.74E-01,4.74E-01
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,333,0.474,4.74E-01,5.44E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,302,0.47,4.62E-01,4.87E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,333,0.47,4.76E-01,5.12E-01
+1-methyl-3-propylimidazolium,C[N+]1=CN(C=C1)CCC,dihydrogen phosphate,P(=O)(O)(O)[O-],288,0.469,4.63E-01,5.00E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,318,0.466,4.70E-01,4.72E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,343,0.465,4.60E-01,4.93E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,283,0.462,4.59E-01,4.37E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,303,0.46,4.80E-01,5.04E-01
+"1-ethyl-2,3-dimethylimidazolium",C(C)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],323,0.458,4.63E-01,4.77E-01
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],318,0.457,4.58E-01,4.59E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,298,0.455,4.04E-01,4.26E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,301,0.453,4.46E-01,4.71E-01
+1-butyl-3-methyl-1H-imidazolium,C(CCC)[NH+]1CN(C=C1)C,(S)-2-amino-3-carboxypropanoate,N[C@H](C(=O)[O-])CC(=O)O,348,0.451,4.48E-01,5.21E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],353,0.447,4.51E-01,4.59E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,propanoate,C(CC)(=O)[O-],343,0.447,4.54E-01,5.40E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,396,0.444,4.32E-01,4.04E-01
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,328,0.441,4.45E-01,4.57E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],328,0.441,4.47E-01,4.38E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,323,0.44,4.45E-01,4.20E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,303,0.439,4.42E-01,5.07E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycolate,C(CO)(=O)[O-],338,0.439,4.37E-01,4.81E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,318,0.437,6.07E-01,4.98E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,300,0.435,4.29E-01,4.55E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],308,0.435,4.37E-01,4.64E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,278,0.435,4.30E-01,4.97E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dicyanamide,[N-](C#N)C#N,278,0.433,4.40E-01,4.45E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,278,0.433,4.39E-01,4.34E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,343,0.43,4.35E-01,4.50E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],318,0.43,3.49E-01,4.18E-01
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,313,0.428,4.32E-01,4.54E-01
+1-butyl-3-pentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,323,0.427,4.28E-01,4.36E-01
+"1-hexyl-2,3-dimethylimidazolium",C(CCCCC)[N+]1=C(N(C=C1)C)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,328,0.426,4.28E-01,3.40E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],323,0.426,4.30E-01,5.03E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],298,0.419,4.13E-01,4.23E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,299,0.418,4.13E-01,4.40E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,328,0.415,4.10E-01,4.31E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,333,0.415,4.16E-01,3.52E-01
+3-ethyl-1-methyl-1H-imidazolium,C(C)N1C[NH+](C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],333,0.412,4.08E-01,5.07E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,295,0.41,3.35E-01,3.43E-01
+"2,3-dimethyl-1-propylimidazolium",CC1=[N+](C=CN1C)CCC,hydrogen sulfate,S(=O)(=O)(O)[O-],323,0.409,4.13E-01,4.29E-01
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,353,0.405,4.09E-01,3.97E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,formate,C(=O)[O-],318,0.402,3.96E-01,4.32E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,323,0.4,4.04E-01,4.14E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],338,0.4,3.94E-01,4.06E-01
+"2,3-dimethyl-1-pentylimidazolium",CC1=[N+](C=CN1C)CCCCC,hydrogen sulfate,S(=O)(=O)(O)[O-],328,0.399,4.06E-01,3.95E-01
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],313,0.398,3.95E-01,4.05E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,323,0.397,3.97E-01,3.93E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],335,0.396,3.89E-01,3.99E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],333,0.393,3.86E-01,3.95E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],298,0.392,3.94E-01,3.96E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,390,0.391,3.85E-01,3.60E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,338,0.391,3.86E-01,4.26E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,313,0.39,3.97E-01,3.98E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],330,0.389,3.82E-01,3.89E-01
+1-butyl-3-isopentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCC(C)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,323,0.389,3.87E-01,4.05E-01
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,303,0.387,3.92E-01,3.41E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],306,0.386,3.97E-01,4.25E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],348,0.385,3.87E-01,4.02E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],328,0.384,3.80E-01,3.85E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],333,0.383,3.84E-01,3.17E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],303,0.383,3.81E-01,4.70E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],298,0.382,3.76E-01,3.97E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,298,0.38,3.98E-01,4.24E-01
+"1-ethyl-2,3-dimethylimidazolium",C(C)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],318,0.377,3.77E-01,3.93E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],323,0.376,3.73E-01,3.75E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,298,0.376,3.82E-01,4.34E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,318,0.374,3.74E-01,3.58E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],338,0.372,4.34E-01,4.33E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,propanoate,C(CC)(=O)[O-],338,0.372,3.79E-01,4.33E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],298,0.371,3.37E-01,3.28E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(fluorosulfonyl)imide,FS(=O)(=O)[N-]S(=O)(=O)F,278,0.37,3.74E-01,3.53E-01
+"1-hexyl-2,3-dimethylimidazolium",C(CCCCC)[N+]1=C(N(C=C1)C)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,323,0.369,3.78E-01,2.96E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],333,0.369,3.65E-01,3.65E-01
+1-butyl-3-methyl-1H-imidazolium,C(CCC)[NH+]1CN(C=C1)C,(S)-2-amino-3-carboxypropanoate,N[C@H](C(=O)[O-])CC(=O)O,343,0.368,3.88E-01,4.62E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],318,0.367,3.67E-01,3.65E-01
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,308,0.367,3.67E-01,4.10E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,338,0.364,3.70E-01,3.76E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],338,0.364,3.59E-01,3.89E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,288,0.362,3.65E-01,3.80E-01
+1-cyclopentyl-3-butylimidazolium,C1(CCCC1)[N+]1=CN(C=C1)CCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,313,0.361,3.56E-01,3.70E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,353,0.36,3.55E-01,3.96E-01
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,323,0.36,3.63E-01,3.71E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],313,0.36,3.60E-01,3.55E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,303,0.36,3.50E-01,3.10E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],323,0.36,3.65E-01,3.62E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,lactate,C(C(O)C)(=O)[O-],343,0.36,3.54E-01,3.55E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],335,0.359,3.56E-01,3.75E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],293,0.359,3.57E-01,3.73E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,313,0.358,5.11E-01,4.25E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],333,0.356,3.54E-01,3.66E-01
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,348,0.351,3.40E-01,3.38E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,323,0.351,3.49E-01,3.63E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],308,0.351,3.53E-01,3.46E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],330,0.351,3.51E-01,3.52E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycolate,C(CO)(=O)[O-],333,0.35,3.53E-01,3.88E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,296,0.35,3.51E-01,3.64E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,298,0.35,3.85E-01,4.09E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],328,0.349,3.48E-01,3.44E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],303,0.346,3.42E-01,3.57E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],318,0.344,3.38E-01,3.26E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],333,0.343,3.48E-01,4.10E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],303,0.342,3.46E-01,3.37E-01
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],308,0.341,3.37E-01,3.57E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],323,0.34,3.40E-01,3.23E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,318,0.336,3.41E-01,3.60E-01
+"2,3-dimethyl-1-propylimidazolium",CC1=[N+](C=CN1C)CCC,hydrogen sulfate,S(=O)(=O)(O)[O-],318,0.333,3.34E-01,3.54E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,381,0.331,3.26E-01,3.05E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],343,0.329,3.29E-01,3.38E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],295,0.329,3.32E-01,3.22E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],318,0.329,3.31E-01,3.09E-01
+3-ethyl-1-methyl-1H-imidazolium,C(C)N1C[NH+](C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],328,0.329,3.30E-01,4.01E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,328,0.327,3.26E-01,2.76E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,308,0.327,3.31E-01,3.35E-01
+1-methylimidazolium,C[N+]1=CNC=C1,acetate,C(C)(=O)[O-],293,0.326,3.28E-01,3.19E-01
+1-butyl-3-methyl-1H-imidazolium,C(CCC)[NH+]1CN(C=C1)C,(S)-2-amino-3-carboxypropanoate,N[C@H](C(=O)[O-])CC(=O)O,338,0.326,3.32E-01,4.10E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,313,0.326,3.60E-01,4.20E-01
+"2,3-dimethyl-1-pentylimidazolium",CC1=[N+](C=CN1C)CCCCC,hydrogen sulfate,S(=O)(=O)(O)[O-],323,0.324,3.26E-01,3.25E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,293,0.323,3.25E-01,3.56E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,293,0.322,3.25E-01,3.59E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,318,0.322,3.25E-01,3.35E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,333,0.322,3.11E-01,3.10E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,formate,C(=O)[O-],313,0.319,3.14E-01,3.51E-01
+"1-hexyl-2,3-dimethylimidazolium",C(CCCCC)[N+]1=C(N(C=C1)C)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,318,0.319,3.24E-01,2.39E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,333,0.319,3.20E-01,3.68E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],313,0.317,3.20E-01,3.03E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,butanoate,C(CCC)(=O)[O-],343,0.315,3.18E-01,3.48E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,313,0.313,3.10E-01,3.04E-01
+"1-ethyl-2,3-dimethylimidazolium",C(C)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],313,0.308,3.04E-01,3.24E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,propanoate,C(CC)(=O)[O-],333,0.306,3.10E-01,3.45E-01
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,298,0.305,3.09E-01,2.57E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],308,0.305,3.09E-01,2.98E-01
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,303,0.305,3.04E-01,3.30E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,348,0.304,3.00E-01,3.42E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,dihydrogen phosphate,P(=O)(O)(O)[O-],288,0.303,3.07E-01,3.23E-01
+1-butyl-3-pentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,313,0.303,2.99E-01,3.06E-01
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],298,0.302,7.45E-02,3.07E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,376,0.301,2.98E-01,2.76E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,293,0.3,3.03E-01,3.05E-01
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,295,0.3,2.66E-01,2.17E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,318,0.298,2.94E-01,3.06E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],301,0.298,3.08E-01,3.17E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],298,0.295,2.92E-01,3.56E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],328,0.294,2.92E-01,2.50E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],303,0.293,2.97E-01,2.93E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],318,0.292,2.91E-01,3.00E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],293,0.291,2.85E-01,2.96E-01
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],303,0.29,2.86E-01,3.15E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,298,0.29,2.83E-01,2.66E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],328,0.29,3.00E-01,3.08E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,lactate,C(C(O)C)(=O)[O-],338,0.288,2.90E-01,2.94E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],298,0.286,2.84E-01,2.88E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,308,0.286,4.26E-01,3.63E-01
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,343,0.285,2.82E-01,2.81E-01
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,318,0.285,2.89E-01,3.01E-01
+1-methyl-3-propyl-1H-imidazol-3-ium,CN1C=[N+](C=C1)CCC,L-serinate,N[C@@H](CO)C(=O)[O-],338,0.282,2.79E-01,3.35E-01
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,353,0.28,2.81E-01,2.68E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,313,0.28,2.84E-01,3.01E-01
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,323,0.28,2.83E-01,2.86E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],338,0.279,2.77E-01,2.85E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],295,0.279,2.76E-01,2.86E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],313,0.279,2.81E-01,3.12E-01
+1-butyl-3-methyl-1H-imidazolium,C(CCC)[NH+]1CN(C=C1)C,(S)-2-amino-3-carboxypropanoate,N[C@H](C(=O)[O-])CC(=O)O,333,0.278,2.80E-01,3.64E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],308,0.276,2.24E-01,2.32E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],293,0.275,2.71E-01,2.83E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],328,0.274,2.86E-01,3.05E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen carbonate,C(O)([O-])=O,288,0.274,2.72E-01,2.97E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycolate,C(CO)(=O)[O-],328,0.274,2.78E-01,3.05E-01
+1-butyl-3-isopentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCC(C)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,313,0.273,2.69E-01,2.86E-01
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,cyanocyanamide,[N-](C#N)C#N,293,0.272,2.17E-01,1.93E-01
+"1-hexyl-2,3-dimethylimidazolium",C(CCCCC)[N+]1=C(N(C=C1)C)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,313,0.271,2.66E-01,1.93E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,303,0.27,2.72E-01,2.83E-01
+"2,3-dimethyl-1-propylimidazolium",CC1=[N+](C=CN1C)CCC,hydrogen sulfate,S(=O)(=O)(O)[O-],313,0.267,2.66E-01,2.92E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],323,0.267,2.41E-01,2.60E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],298,0.265,2.61E-01,2.66E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,288,0.264,2.62E-01,2.97E-01
+1-butyl-3-ethylimidazolium,C(CCC)[N+]1=CN(C=C1)CC,bromide,[Br-],323,0.264,2.67E-01,2.18E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,328,0.263,2.58E-01,2.57E-01
+3-(3-cyanopropyl)-1-methylimidazolium,C(#N)CCCN1C=[N+](C=C1)C,"1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,313,0.263,3.87E-01,3.39E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,308,0.261,2.77E-01,3.16E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,328,0.26,2.63E-01,3.19E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,295,0.26,1.91E-01,2.13E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,313,0.259,2.63E-01,2.85E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,308,0.258,2.54E-01,2.57E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,butanoate,C(CCC)(=O)[O-],338,0.258,2.61E-01,2.91E-01
+3-ethyl-1-methyl-1H-imidazolium,C(C)N1C[NH+](C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],323,0.258,2.63E-01,3.18E-01
+"2,3-dimethyl-1-pentylimidazolium",CC1=[N+](C=CN1C)CCCCC,hydrogen sulfate,S(=O)(=O)(O)[O-],318,0.257,2.55E-01,2.58E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],313,0.256,2.22E-01,2.33E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,323,0.254,2.51E-01,2.16E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,343,0.253,2.52E-01,2.96E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],318,0.252,1.89E-01,1.85E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],288,0.25,2.48E-01,2.36E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,formate,C(=O)[O-],308,0.25,2.47E-01,2.85E-01
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,298,0.248,2.45E-01,2.62E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,propanoate,C(CC)(=O)[O-],328,0.248,2.49E-01,2.76E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,367,0.247,2.51E-01,2.30E-01
+1-cyclopentyl-3-butylimidazolium,C1(CCCC1)[N+]1=CN(C=C1)CCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,303,0.246,2.44E-01,2.57E-01
+"1-ethyl-2,3-dimethylimidazolium",C(C)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],308,0.244,2.43E-01,2.67E-01
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],298,0.243,2.40E-01,2.78E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,293,0.24,3.05E-01,3.09E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,313,0.24,2.45E-01,2.57E-01
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,293,0.237,2.39E-01,1.93E-01
+1-butyl-3-methyl-1H-imidazolium,C(CCC)[NH+]1CN(C=C1)C,(S)-2-amino-3-carboxypropanoate,N[C@H](C(=O)[O-])CC(=O)O,328,0.234,2.34E-01,3.05E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],333,0.232,2.31E-01,2.41E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],313,0.231,2.29E-01,2.34E-01
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,338,0.23,2.32E-01,2.33E-01
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,348,0.23,2.33E-01,2.27E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,293,0.23,2.26E-01,2.29E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,lactate,C(C(O)C)(=O)[O-],333,0.229,2.32E-01,2.51E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,308,0.227,2.32E-01,2.41E-01
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,313,0.225,2.26E-01,2.44E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,278,0.224,2.47E-01,2.59E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],293,0.222,2.23E-01,2.70E-01
+3-(3-cyanopropyl)-1-methylimidazolium,C(#N)CCCN1C=[N+](C=C1)C,"1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,303,0.22,1.96E-01,1.62E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,salicylate,C(C=1C(O)=CC=CC1)(=O)[O-],323,0.22,1.66E-01,1.70E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],323,0.219,2.16E-01,1.85E-01
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,338,0.219,2.16E-01,2.45E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,298,0.218,2.20E-01,2.38E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],303,0.217,1.76E-01,1.73E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,323,0.215,2.12E-01,2.19E-01
+1-methyl-3-propyl-1H-imidazol-3-ium,CN1C=[N+](C=C1)CCC,L-serinate,N[C@@H](CO)C(=O)[O-],333,0.214,2.15E-01,2.44E-01
+3-butyl-1-methylimidazolium,C(CCC)N1C=[N+](C=C1)C,benzoate,C(C1=CC=CC=C1)(=O)[O-],343,0.213,2.10E-01,1.76E-01
+"1-hexyl-2,3-dimethylimidazolium",C(CCCCC)[N+]1=C(N(C=C1)C)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,308,0.213,2.09E-01,1.56E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],288,0.212,1.71E-01,2.05E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,288,0.211,2.29E-01,2.28E-01
+"2,3-dimethyl-1-propylimidazolium",CC1=[N+](C=CN1C)CCC,hydrogen sulfate,S(=O)(=O)(O)[O-],308,0.211,2.09E-01,2.35E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycolate,C(CO)(=O)[O-],323,0.211,2.13E-01,2.30E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,salicylate,C(C=1C(O)=CC=CC1)(=O)[O-],333,0.21,2.07E-01,2.03E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,323,0.21,2.12E-01,2.43E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,338,0.209,2.09E-01,2.56E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,303,0.209,2.05E-01,2.17E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,butanoate,C(CCC)(=O)[O-],333,0.208,2.09E-01,2.35E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,303,0.207,2.08E-01,2.38E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,288,0.205,2.24E-01,2.24E-01
+1-butyl-3-pentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,303,0.205,2.03E-01,2.15E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,308,0.205,2.09E-01,2.37E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,308,0.204,2.02E-01,2.17E-01
+3-ethyl-1-methyl-1H-imidazolium,C(C)N1C[NH+](C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],318,0.204,2.05E-01,2.52E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],288,0.202,2.10E-01,2.20E-01
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],293,0.201,2.00E-01,2.29E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,295,0.2,1.26E-01,1.51E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,propanoate,C(CC)(=O)[O-],323,0.198,1.97E-01,2.21E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],293,0.197,1.94E-01,1.98E-01
+1-butyl-3-methyl-1H-imidazolium,C(CCC)[NH+]1CN(C=C1)C,(S)-2-amino-3-carboxypropanoate,N[C@H](C(=O)[O-])CC(=O)O,323,0.197,1.93E-01,2.47E-01
+"2,3-dimethyl-1-pentylimidazolium",CC1=[N+](C=CN1C)CCCCC,hydrogen sulfate,S(=O)(=O)(O)[O-],313,0.197,1.94E-01,1.91E-01
+1-cyclopentyl-3-butylimidazolium,C1(CCCC1)[N+]1=CN(C=C1)CCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,298,0.197,2.00E-01,2.17E-01
+1-butyl-3-ethylimidazolium,C(CCC)[N+]1=CN(C=C1)CC,bromide,[Br-],318,0.195,1.98E-01,1.87E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],309,0.194,1.49E-01,1.79E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,318,0.194,1.91E-01,1.70E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],328,0.193,1.90E-01,2.03E-01
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,293,0.193,1.91E-01,2.06E-01
+"1-ethyl-2,3-dimethylimidazolium",C(C)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],303,0.193,1.93E-01,2.20E-01
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,343,0.192,1.93E-01,1.91E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,formate,C(=O)[O-],303,0.191,1.93E-01,2.30E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,303,0.19,1.87E-01,1.92E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,283,0.19,2.08E-01,2.25E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,295,0.19,1.13E-01,1.38E-01
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,333,0.189,1.90E-01,1.93E-01
+1-butyl-3-isopentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCC(C)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,303,0.182,1.80E-01,1.93E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,288,0.181,1.78E-01,1.97E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,lactate,C(C(O)C)(=O)[O-],328,0.18,1.81E-01,2.04E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,iodide,[I-],323,0.18,1.78E-01,1.94E-01
+1-allyl-3-methyl-1H-imidazol-3-ium,C(C=C)N1C=[N+](C=C1)C,propionate,C(CC)(=O)[O-],298,0.18,1.78E-01,1.89E-01
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,288,0.179,1.81E-01,1.46E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],308,0.179,1.77E-01,1.75E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],318,0.179,1.88E-01,2.10E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,salicylate,C(C=1C(O)=CC=CC1)(=O)[O-],328,0.178,1.93E-01,1.86E-01
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,333,0.177,1.77E-01,2.05E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],323,0.176,2.34E-01,2.34E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,bromide,[Br-],373,0.175,1.72E-01,1.54E-01
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,308,0.173,1.71E-01,1.82E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,293,0.173,1.74E-01,1.98E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,318,0.172,1.71E-01,1.87E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,355,0.171,1.89E-01,1.74E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,333,0.17,1.72E-01,2.19E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,353,0.169,1.79E-01,1.62E-01
+3-butyl-1-methylimidazolium,C(CCC)N1C=[N+](C=C1)C,benzoate,C(C1=CC=CC=C1)(=O)[O-],338,0.168,1.70E-01,1.46E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,298,0.167,1.65E-01,1.84E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,318,0.166,1.69E-01,1.84E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,butanoate,C(CCC)(=O)[O-],328,0.165,1.65E-01,1.89E-01
+1-methyl-3-pentylimidazolium,C[N+]1=CN(C=C1)CCCCC,dihydrogen phosphate,P(=O)(O)(O)[O-],288,0.164,1.66E-01,1.75E-01
+1-butyl-3-pentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCCCC,bis((trifluoromethyl)sulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,298,0.164,1.66E-01,1.80E-01
+"2,3-dimethyl-1-propylimidazolium",CC1=[N+](C=CN1C)CCC,hydrogen sulfate,S(=O)(=O)(O)[O-],303,0.162,1.62E-01,1.76E-01
+1-butyl-3-methyl-1H-imidazolium,C(CCC)[NH+]1CN(C=C1)C,(S)-2-amino-3-carboxypropanoate,N[C@H](C(=O)[O-])CC(=O)O,318,0.16,1.57E-01,2.00E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,283,0.16,1.64E-01,1.70E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,303,0.16,1.63E-01,1.83E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycolate,C(CO)(=O)[O-],318,0.16,1.59E-01,1.74E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,303,0.16,1.63E-01,1.75E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,278,0.159,1.62E-01,1.28E-01
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,338,0.159,1.59E-01,1.61E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],318,0.159,1.57E-01,1.32E-01
+1-methyl-3-propyl-1H-imidazol-3-ium,CN1C=[N+](C=C1)CCC,L-serinate,N[C@@H](CO)C(=O)[O-],328,0.159,1.61E-01,1.74E-01
+"1-hexyl-2,3-dimethylimidazolium",C(CCCCC)[N+]1=C(N(C=C1)C)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,303,0.158,1.56E-01,1.25E-01
+3-ethyl-1-methyl-1H-imidazolium,C(C)N1C[NH+](C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],313,0.158,1.58E-01,1.99E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,propanoate,C(CC)(=O)[O-],318,0.156,1.53E-01,1.77E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,salicylate,C(C=1C(O)=CC=CC1)(=O)[O-],318,0.156,1.32E-01,1.42E-01
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,328,0.153,1.55E-01,1.63E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],323,0.153,1.55E-01,1.71E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],308,0.153,1.20E-01,1.05E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,298,0.15,1.47E-01,1.54E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,298,0.15,1.53E-01,1.79E-01
+"1-ethyl-2,3-dimethylimidazolium",C(C)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],298,0.15,1.52E-01,1.67E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,296,0.15,1.34E-01,1.60E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,350,0.146,1.62E-01,1.46E-01
+1-butyl-3-ethylimidazolium,C(CCC)[N+]1=CN(C=C1)CC,bromide,[Br-],313,0.146,1.44E-01,1.60E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],314,0.146,1.51E-01,1.63E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,313,0.145,1.43E-01,1.33E-01
+"1,3-dimethylimidazolium",C[N+]1=CN(C=C1)C,methylsulfate,COS(=O)(=O)[O-],278,0.145,1.47E-01,1.40E-01
+"2,3-dimethyl-1-pentylimidazolium",CC1=[N+](C=CN1C)CCCCC,hydrogen sulfate,S(=O)(=O)(O)[O-],308,0.145,1.45E-01,1.42E-01
+1-butyl-3-isopentylimidazolium,C(CCC)[N+]1=CN(C=C1)CCC(C)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,298,0.145,1.47E-01,1.61E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,348,0.143,1.51E-01,1.36E-01
+3-methyl-1-pentylimidazolium,CN1C=[N+](C=C1)CCCCC,hydrogen carbonate,C(O)([O-])=O,288,0.143,1.46E-01,1.63E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],288,0.142,1.40E-01,1.47E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,328,0.141,1.40E-01,1.65E-01
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,328,0.141,1.42E-01,1.71E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,283,0.14,1.38E-01,1.44E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,283,0.14,1.60E-01,1.62E-01
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,313,0.14,1.42E-01,1.42E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycinate,NCC(=O)[O-],343,0.14,1.38E-01,1.49E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],283,0.139,1.50E-01,1.63E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,lactate,C(C(O)C)(=O)[O-],323,0.138,1.38E-01,1.52E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],313,0.138,1.42E-01,1.54E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,313,0.137,1.36E-01,1.48E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],303,0.135,1.35E-01,1.30E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,288,0.135,1.35E-01,1.66E-01
+1-(2-hydroxyethyl)-3-methylimidazolium,OCC[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,283,0.132,1.34E-01,1.11E-01
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,333,0.131,1.30E-01,1.36E-01
+3-butyl-1-methylimidazolium,C(CCC)N1C=[N+](C=C1)C,benzoate,C(C1=CC=CC=C1)(=O)[O-],333,0.131,1.33E-01,1.16E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tris(pentafluoroethyl)trifluorophosphate,C(C(F)(F)[P-](C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)(F)F)(F)(F)F,293,0.13,1.31E-01,1.56E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,298,0.13,1.30E-01,1.54E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,313,0.13,1.31E-01,1.38E-01
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,bis(trifluoromethylsulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,295,0.13,1.28E-01,1.05E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,295,0.13,1.28E-01,1.47E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],303,0.129,7.24E-02,6.87E-02
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,303,0.129,1.27E-01,1.25E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,butanoate,C(CCC)(=O)[O-],323,0.129,1.28E-01,1.53E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,346,0.128,1.40E-01,1.27E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],298,0.126,1.36E-01,1.32E-01
+3-(3-cyanopropyl)-1-methylimidazolium,C(#N)CCCN1C=[N+](C=C1)C,"1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,298,0.125,1.27E-01,1.12E-01
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,323,0.124,1.25E-01,1.40E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],318,0.124,1.25E-01,1.44E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,298,0.123,1.24E-01,1.30E-01
+1-butyl-3-methyl-1H-imidazolium,C(CCC)[NH+]1CN(C=C1)C,(S)-2-amino-3-carboxypropanoate,N[C@H](C(=O)[O-])CC(=O)O,313,0.123,1.27E-01,1.62E-01
+"2,3-dimethyl-1-propylimidazolium",CC1=[N+](C=CN1C)CCC,hydrogen sulfate,S(=O)(=O)(O)[O-],298,0.123,1.25E-01,1.31E-01
+3-ethyl-1-methyl-1H-imidazolium,C(C)N1C[NH+](C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],308,0.121,1.19E-01,1.58E-01
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,butanoate,C(CCC)(=O)[O-],298,0.121,1.19E-01,1.21E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,propanoate,C(CC)(=O)[O-],313,0.12,1.19E-01,1.40E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,343,0.119,1.23E-01,1.15E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycolate,C(CO)(=O)[O-],313,0.118,1.16E-01,1.30E-01
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,glycolate,C(CO)(=O)[O-],298,0.118,1.17E-01,1.17E-01
+1-methyl-3-propyl-1H-imidazol-3-ium,CN1C=[N+](C=C1)CCC,L-serinate,N[C@@H](CO)C(=O)[O-],323,0.116,1.18E-01,1.24E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoroacetate,FC(C(=O)[O-])(F)F,278,0.114,1.12E-01,1.17E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],283,0.114,1.32E-01,1.56E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,278,0.113,1.11E-01,1.26E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],313,0.112,1.11E-01,9.44E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,323,0.111,1.11E-01,1.27E-01
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,323,0.111,1.12E-01,1.26E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,293,0.11,1.14E-01,1.23E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,295,0.11,1.10E-01,1.16E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,tris[(trifluoromethyl)sulfonyl]methide,[C-](S(=O)(=O)C(F)(F)F)(S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,295,0.11,1.09E-01,8.93E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,293,0.109,1.10E-01,1.35E-01
+"1-hexyl-2,3-dimethylimidazolium",C(CCCCC)[N+]1=C(N(C=C1)C)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,298,0.108,1.09E-01,9.31E-02
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,328,0.107,1.05E-01,1.16E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycinate,NCC(=O)[O-],338,0.107,1.06E-01,1.13E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,308,0.107,1.06E-01,1.10E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,308,0.106,1.06E-01,9.70E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],308,0.106,1.04E-01,1.13E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,340,0.105,1.06E-01,1.03E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,ethyl sulfate,S(=O)(=O)(OCC)[O-],278,0.105,1.04E-01,1.08E-01
+"2,3-dimethyl-1-pentylimidazolium",CC1=[N+](C=CN1C)CCCCC,hydrogen sulfate,S(=O)(=O)(O)[O-],303,0.105,1.06E-01,1.05E-01
+1-butyl-3-ethylimidazolium,C(CCC)[N+]1=CN(C=C1)CC,bromide,[Br-],308,0.105,1.03E-01,1.00E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,trifluoromethanesulfonate,FC(S(=O)(=O)[O-])(F)F,278,0.104,1.06E-01,9.45E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],278,0.104,1.03E-01,1.11E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,lactate,C(C(O)C)(=O)[O-],318,0.104,1.03E-01,1.14E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,methyl sulfate,S(=O)(=O)(OC)[O-],293,0.104,1.03E-01,1.02E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,293,0.1,1.02E-01,1.29E-01
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,283,0.1,1.02E-01,1.02E-01
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,hydrogen sulfate,S(=O)(=O)(O)[O-],298,0.1,1.01E-01,8.97E-02
+3-butyl-1-methylimidazolium,C(CCC)N1C=[N+](C=C1)C,benzoate,C(C1=CC=CC=C1)(=O)[O-],328,0.1,1.01E-01,8.98E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,iodide,[I-],313,0.1,1.02E-01,9.37E-02
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,308,0.0993,9.97E-02,1.05E-01
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,butanoate,C(CCC)(=O)[O-],318,0.0992,9.75E-02,1.20E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,338,0.0988,9.53E-02,9.63E-02
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,318,0.0988,9.96E-02,1.10E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],283,0.0988,9.78E-02,1.08E-01
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],313,0.098,9.95E-02,1.21E-01
+1-butyl-3-methyl-1H-imidazolium,C(CCC)[NH+]1CN(C=C1)C,(S)-2-amino-3-carboxypropanoate,N[C@H](C(=O)[O-])CC(=O)O,308,0.098,1.01E-01,1.32E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,salicylate,C(C=1C(O)=CC=CC1)(=O)[O-],313,0.0965,9.77E-02,1.03E-01
+3-(3-cyanopropyl)-1-methylimidazolium,C(#N)CCCN1C=[N+](C=C1)C,"1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,293,0.093,7.67E-02,6.88E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,taurate,NCCS(=O)(=O)[O-],323,0.0922,9.07E-02,9.63E-02
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,295,0.092,9.31E-02,9.98E-02
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,298,0.0919,9.12E-02,8.53E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],313,0.0915,1.52E-01,1.45E-01
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,336,0.0902,8.47E-02,8.98E-02
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,propanoate,C(CC)(=O)[O-],308,0.0902,9.11E-02,1.05E-01
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,295,0.088,2.08E-02,2.88E-02
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,lactate,C(C(O)C)(=O)[O-],298,0.088,8.69E-02,8.65E-02
+3-ethyl-1-methyl-1H-imidazolium,C(C)N1C[NH+](C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],303,0.0878,8.90E-02,1.25E-01
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,323,0.087,8.45E-02,8.75E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],298,0.0865,7.10E-02,4.03E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,318,0.0863,8.71E-02,9.72E-02
+3-butyl-1-methyl-1H-imidazol-3-ium,C(CCC)[N+]1=CN(C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],338,0.0861,8.74E-02,1.43E-01
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,318,0.0854,8.64E-02,8.74E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,288,0.0853,8.65E-02,9.75E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycolate,C(CO)(=O)[O-],308,0.085,8.39E-02,8.87E-02
+1-methyl-3-propyl-1H-imidazol-3-ium,CN1C=[N+](C=C1)CCC,L-serinate,N[C@@H](CO)C(=O)[O-],318,0.0841,8.29E-02,8.85E-02
+1-butyl-3-methyl-1H-imidazolium,C(CCC)[NH+]1CN(C=C1)C,(S)-2-amino-3-carboxypropanoate,N[C@H](C(=O)[O-])CC(=O)O,303,0.082,8.06E-02,1.07E-01
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,303,0.0817,8.07E-02,8.16E-02
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,333,0.0813,6.96E-02,8.09E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],303,0.08,7.38E-02,8.25E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,288,0.079,7.84E-02,1.01E-01
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycinate,NCC(=O)[O-],333,0.0786,7.97E-02,8.39E-02
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,313,0.0784,7.84E-02,8.31E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,288,0.0784,7.86E-02,9.97E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],308,0.078,7.79E-02,9.33E-02
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,278,0.077,7.57E-02,5.78E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,lactate,C(C(O)C)(=O)[O-],313,0.0762,7.49E-02,8.50E-02
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,tetrafluoroborate,F[B-](F)(F)F,303,0.0758,7.72E-02,6.86E-02
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],308,0.0756,7.70E-02,6.40E-02
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,butanoate,C(CCC)(=O)[O-],313,0.0752,7.38E-02,8.62E-02
+1-butyl-3-methyl-1H-imidazolium,C(CCC)[NH+]1CN(C=C1)C,(S)-2-amino-3-carboxypropanoate,N[C@H](C(=O)[O-])CC(=O)O,298,0.075,6.38E-02,8.66E-02
+"2,3-dimethyl-1-pentylimidazolium",CC1=[N+](C=CN1C)CCCCC,hydrogen sulfate,S(=O)(=O)(O)[O-],298,0.075,7.61E-02,7.55E-02
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,303,0.0747,7.41E-02,7.97E-02
+3-butyl-1-methylimidazolium,C(CCC)N1C=[N+](C=C1)C,benzoate,C(C1=CC=CC=C1)(=O)[O-],323,0.0736,7.39E-02,6.87E-02
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,330,0.0705,5.58E-02,7.29E-02
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,propanoate,C(CC)(=O)[O-],303,0.0703,6.97E-02,8.13E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,taurate,NCCS(=O)(=O)[O-],318,0.0697,6.97E-02,7.70E-02
+1-butyl-3-ethylimidazolium,C(CCC)[N+]1=CN(C=C1)CC,bromide,[Br-],303,0.0696,7.28E-02,6.40E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,salicylate,C(C=1C(O)=CC=CC1)(=O)[O-],308,0.0692,6.82E-02,7.22E-02
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,288,0.0672,6.73E-02,7.17E-02
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,318,0.0664,6.70E-02,6.60E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,313,0.0659,6.66E-02,7.47E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,methanesulfonate,CS(=O)(=O)[O-],278,0.0656,6.65E-02,7.91E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,283,0.065,6.41E-02,7.44E-02
+3-butyl-1-methyl-1H-imidazol-3-ium,C(CCC)[N+]1=CN(C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],333,0.065,6.40E-02,1.02E-01
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,293,0.0648,6.38E-02,5.84E-02
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,313,0.0639,6.48E-02,6.05E-02
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,308,0.0608,6.07E-02,6.28E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],303,0.06,6.00E-02,7.23E-02
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,298,0.0594,6.01E-02,6.08E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,283,0.059,5.92E-02,5.72E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycolate,C(CO)(=O)[O-],303,0.0586,5.97E-02,6.06E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycinate,NCC(=O)[O-],328,0.0571,5.79E-02,5.99E-02
+1-methyl-3-propyl-1H-imidazol-3-ium,CN1C=[N+](C=C1)CCC,L-serinate,N[C@@H](CO)C(=O)[O-],313,0.0571,5.63E-02,5.94E-02
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,325,0.0568,3.63E-02,5.85E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,283,0.056,5.52E-02,7.63E-02
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,303,0.056,5.49E-02,6.19E-02
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,butanoate,C(CCC)(=O)[O-],308,0.0558,5.54E-02,6.21E-02
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,cyanocyanamide,[N-](C#N)C#N,283,0.055,5.56E-02,5.75E-02
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,298,0.0543,5.38E-02,6.05E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,lactate,C(C(O)C)(=O)[O-],308,0.0543,5.36E-02,6.02E-02
+3-butyl-1-methylimidazolium,C(CCC)N1C=[N+](C=C1)C,benzoate,C(C1=CC=CC=C1)(=O)[O-],318,0.0532,5.28E-02,5.13E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],298,0.0522,5.06E-02,5.51E-02
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,313,0.0519,5.23E-02,4.98E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,taurate,NCCS(=O)(=O)[O-],313,0.0518,5.13E-02,5.66E-02
+1-butyl-3-ethylimidazolium,C(CCC)[N+]1=CN(C=C1)CC,bromide,[Br-],298,0.0502,5.16E-02,4.14E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,iodide,[I-],303,0.05,4.92E-02,3.93E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,308,0.0493,4.98E-02,5.73E-02
+"1-butyl-2,3-dimethylimidazolium",C(CCC)[N+]1=C(N(C=C1)C)C,azide,[N-]=[N+]=[N-],303,0.0488,5.23E-02,4.35E-02
+3-butyl-1-methyl-1H-imidazol-3-ium,C(CCC)[N+]1=CN(C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],328,0.0471,4.61E-02,7.27E-02
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,308,0.0467,4.72E-02,4.19E-02
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,303,0.0464,4.62E-02,4.76E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,bis(perfluoroethylsulfonyl)imide,[N-](S(=O)(=O)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)F,278,0.046,4.66E-02,4.11E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],298,0.046,4.53E-02,5.59E-02
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,320,0.0451,2.17E-02,4.24E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,salicylate,C(C=1C(O)=CC=CC1)(=O)[O-],303,0.0447,4.53E-02,5.05E-02
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,288,0.0439,4.34E-02,3.99E-02
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,293,0.0435,4.38E-02,4.54E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,bis[(trifluoromethyl)sulfonyl]imide,[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,278,0.0432,4.36E-02,3.32E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],288,0.0432,3.84E-02,1.84E-02
+3-butyl-1-methyl-1H-imidazolium,C(CCC)N1C[NH+](C=C1)C,butanoate,C(CCC)(=O)[O-],303,0.041,4.15E-02,4.45E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],303,0.0409,9.32E-02,6.27E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycinate,NCC(=O)[O-],323,0.0403,4.08E-02,4.32E-02
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,308,0.04,4.01E-02,3.76E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,salicylate,C(C=1C(O)=CC=CC1)(=O)[O-],298,0.039,2.89E-02,3.54E-02
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,293,0.0388,3.82E-02,4.59E-02
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,benzoate,C(C1=CC=CC=C1)(=O)[O-],298,0.0388,3.94E-02,4.03E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,278,0.0385,3.87E-02,4.65E-02
+1-methyl-3-propyl-1H-imidazol-3-ium,CN1C=[N+](C=C1)CCC,L-serinate,N[C@@H](CO)C(=O)[O-],308,0.0383,3.68E-02,3.81E-02
+3-butyl-1-methylimidazolium,C(CCC)N1C=[N+](C=C1)C,benzoate,C(C1=CC=CC=C1)(=O)[O-],313,0.0372,3.67E-02,3.72E-02
+1-butyl-3-ethylimidazolium,C(CCC)[N+]1=CN(C=C1)CC,bromide,[Br-],293,0.0372,3.68E-02,2.67E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,lactate,C(C(O)C)(=O)[O-],303,0.0371,3.76E-02,4.12E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,303,0.036,3.63E-02,4.40E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,taurate,NCCS(=O)(=O)[O-],308,0.0356,3.61E-02,3.77E-02
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,298,0.0351,3.45E-02,3.60E-02
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,315,0.0347,1.18E-02,2.80E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],293,0.034,3.35E-02,3.95E-02
+1-hexyl-3-methylimidazolium,C(CCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,278,0.0332,3.28E-02,3.53E-02
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,303,0.0332,3.34E-02,2.90E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],293,0.0331,3.36E-02,3.61E-02
+3-butyl-1-methyl-1H-imidazol-3-ium,C(CCC)[N+]1=CN(C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],323,0.0329,3.25E-02,4.78E-02
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,313,0.032,9.03E-03,1.70E-02
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,288,0.0312,3.11E-02,3.32E-02
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,303,0.0304,3.02E-02,2.84E-02
+3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium,C(#N)C[N+]1=CN(C=C1)C,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,283,0.0283,2.87E-02,2.75E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycinate,NCC(=O)[O-],318,0.0278,2.79E-02,2.77E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,298,0.0259,2.58E-02,3.38E-02
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,293,0.0257,2.52E-02,2.72E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,taurate,NCCS(=O)(=O)[O-],303,0.0257,2.44E-02,2.51E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,nitrate,[N+](=O)([O-])[O-],293,0.0255,6.01E-02,2.71E-02
+3-butyl-1-methylimidazolium,C(CCC)N1C=[N+](C=C1)C,benzoate,C(C1=CC=CC=C1)(=O)[O-],308,0.0252,2.49E-02,2.68E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],288,0.025,2.43E-02,2.88E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],296,0.0249,2.53E-02,1.25E-02
+1-methyl-3-propyl-1H-imidazol-3-ium,CN1C=[N+](C=C1)CCC,L-serinate,N[C@@H](CO)C(=O)[O-],303,0.0234,2.31E-02,2.45E-02
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,298,0.0233,2.29E-02,2.01E-02
+3-(3-cyanopropyl)-1-methylimidazolium,C(#N)CCCN1C=[N+](C=C1)C,"1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide",[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F,283,0.023,2.34E-02,2.00E-02
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,310,0.0228,5.85E-03,7.90E-03
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,298,0.0226,2.23E-02,2.15E-02
+3-butyl-1-methyl-1H-imidazol-3-ium,C(CCC)[N+]1=CN(C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],318,0.0218,2.25E-02,3.07E-02
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,283,0.0211,2.16E-02,2.25E-02
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,293,0.02,1.54E-02,1.11E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,iodide,[I-],293,0.02,2.03E-02,1.65E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],288,0.019,2.16E-02,2.38E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycinate,NCC(=O)[O-],313,0.0187,1.85E-02,1.82E-02
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,288,0.0184,1.81E-02,1.82E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],278,0.0183,1.85E-02,8.40E-03
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,salicylate,C(C=1C(O)=CC=CC1)(=O)[O-],293,0.0182,1.80E-02,2.52E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,293,0.0177,1.80E-02,2.46E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],283,0.017,1.73E-02,2.02E-02
+1-dodecyl-3-methylimidazolium,C(CCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,293,0.0164,1.61E-02,1.48E-02
+3-butyl-1-methylimidazolium,C(CCC)N1C=[N+](C=C1)C,benzoate,C(C1=CC=CC=C1)(=O)[O-],303,0.0163,1.66E-02,1.84E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,taurate,NCCS(=O)(=O)[O-],298,0.0161,1.58E-02,1.67E-02
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,293,0.0153,1.52E-02,1.39E-02
+3-butyl-1-methyl-1H-imidazol-3-ium,C(CCC)[N+]1=CN(C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],313,0.0152,1.53E-02,1.97E-02
+1-methyl-3-octylimidazolium,C[N+]1=CN(C=C1)CCCCCCCC,tetrafluoroborate,F[B-](F)(F)F,278,0.0148,1.46E-02,1.42E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],293,0.0148,5.29E-02,2.72E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],283,0.0145,1.34E-02,1.49E-02
+1-methyl-3-propyl-1H-imidazol-3-ium,CN1C=[N+](C=C1)CCC,L-serinate,N[C@@H](CO)C(=O)[O-],298,0.0137,1.40E-02,1.57E-02
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,283,0.0128,1.27E-02,1.27E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,288,0.0124,1.22E-02,1.64E-02
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycinate,NCC(=O)[O-],308,0.0122,1.20E-02,1.21E-02
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,octyl sulfate,S(=O)(=O)(OCCCCCCCC)[O-],278,0.012,1.20E-02,1.51E-02
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,288,0.00985,9.81E-03,9.64E-03
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,taurate,NCCS(=O)(=O)[O-],293,0.0098,9.95E-03,1.11E-02
+1-decyl-3-methylimidazolium,C(CCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,278,0.0087,8.79E-03,6.74E-03
+3-butyl-1-methyl-1H-imidazol-3-ium,C(CCC)[N+]1=CN(C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],308,0.00831,1.02E-02,1.27E-02
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,283,0.00822,8.17E-03,9.79E-03
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,acetate,C(C)(=O)[O-],278,0.008,8.14E-03,7.93E-03
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,glycinate,NCC(=O)[O-],303,0.0075,7.59E-03,8.06E-03
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,chloride,[Cl-],298,0.00695,4.18E-03,4.45E-03
+3-butyl-1-methyl-1H-imidazol-3-ium,C(CCC)[N+]1=CN(C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],303,0.0067,6.63E-03,8.12E-03
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,chloride,[Cl-],333,0.00624,6.03E-03,7.27E-03
+3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium,C(CCC)NC(CN1C[NH+](C=C1)CC)=O,bis((trifluoromethyl)sulfonyl)amide,FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F,283,0.00606,6.14E-03,6.80E-03
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,chloride,[Cl-],323,0.00562,5.56E-03,7.05E-03
+1-octyl-3-methylimidazolium,C(CCCCCCC)[N+]1=CN(C=C1)C,hexafluorophosphate,F[P-](F)(F)(F)(F)F,278,0.0053,5.38E-03,4.56E-03
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,chloride,[Cl-],313,0.00501,5.04E-03,6.01E-03
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,307,0.00443,3.66E-03,3.67E-03
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,chloride,[Cl-],303,0.0044,4.48E-03,4.92E-03
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,4-methylbenzenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-],283,0.00408,2.71E-02,1.24E-02
+3-butyl-1-methyl-1H-imidazol-3-ium,C(CCC)[N+]1=CN(C=C1)C,L-serinate,N[C@@H](CO)C(=O)[O-],298,0.00395,4.24E-03,5.22E-03
+1-allyl-3-methylimidazolium,C(C=C)[N+]1=CN(C=C1)C,chloride,[Cl-],293,0.00382,3.88E-03,3.91E-03
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,306,0.00307,3.11E-03,2.84E-03
+1-(3-cyanopropyl)-3-methylimidazolium,C(#N)CCC[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,283,0.003,3.03E-03,2.75E-03
+1-ethyl-3-methylimidazolium,C(C)[N+]1=CN(C=C1)C,chloride,[Cl-],289,0.0025,6.79E-03,2.45E-03
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,304,0.0021,2.21E-03,1.70E-03
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,303,0.00184,1.86E-03,1.32E-03
+1-butyl-3-methylimidazolium,C(CCC)[N+]1=CN(C=C1)C,hydrogen sulfate,S(=O)(=O)(O)[O-],293,0.0014,1.42E-03,1.50E-03
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,298,0.000677,7.29E-04,4.30E-04
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,293,0.000191,2.62E-04,1.44E-04
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,288,8.80E-05,8.67E-05,6.29E-05
+1-hexadecyl-3-methylimidazolium,C(CCCCCCCCCCCCCCC)[N+]1=CN(C=C1)C,tetrafluoroborate,F[B-](F)(F)F,283,4.10E-05,2.69E-05,4.10E-05
